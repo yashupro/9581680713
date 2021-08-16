@@ -1,0 +1,26 @@
+#include<stdio.h>
+int main(){
+
+int number=10;
+float point=10.1;
+char word='d';
+long numbers=222222;
+double points=222.333;
+
+printf("%d\n",number);
+printf("%f\n",point);
+printf("%c\n",word);
+printf("%l\n",numbers);
+printf("%lf\n",points);
+
+
+
+
+
+
+
+
+
+
+return 0;
+}
